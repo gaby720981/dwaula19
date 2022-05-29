@@ -6,15 +6,15 @@ asdfghjk
 # SCRUM
 # Ceremonias - SCRUM
 Las ceremonias son 4:
-- Sprint Planning Meeting
-- Daily Scrum Meeting
-- Sprint Review Meeting
-- Sprint Retrospective Meeting
+- Sprint Planning Meeting (reunión de planificación del sprint )
+- Daily Scrum Meeting  (reunión periódica)
+- Sprint Review Meeting (reunión de revisión del Sprint)
+- Sprint Retrospective Meeting (reunión de retrospectiva del Sprint)
 
 # Artefactos - SCRUM
- -Product Backlog
- -Sprint Backlog
- Increment
+ -Product Backlog (Pila del Producto) 
+ -Sprint Backlog (Pila del Sprint)
+ Increment (Incremento)
 
 
 # Roles - SCRUM
