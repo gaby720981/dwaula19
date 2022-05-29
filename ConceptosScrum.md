@@ -1,7 +1,6 @@
 # dwaula19
-asdfghjk
-asdfghjk
-asdfghjk
+Nombres de cada integrante: 
+(acá podriamos poner nuestros nombres)
 
 # SCRUM
 # Ceremonias - SCRUM
