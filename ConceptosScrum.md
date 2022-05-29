@@ -12,9 +12,9 @@ Las ceremonias son 4:
 - Sprint Retrospective Meeting (reunión de retrospectiva del Sprint)
 
 # Artefactos - SCRUM
- -Product Backlog (Pila del Producto) 
- -Sprint Backlog (Pila del Sprint)
- Increment (Incremento)
+ - Product Backlog (Pila del Producto) 
+ - Sprint Backlog (Pila del Sprint)
+ - Increment (Incremento)
 
 
 # Roles - SCRUM
