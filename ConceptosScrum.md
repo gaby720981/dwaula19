@@ -3,7 +3,7 @@ Nombres de cada integrante:
 (acá podriamos poner nuestros nombres)
 
 # SCRUM
-SCRUM es una MARCO DE TRABAJO, de adaptación iterativa e incremental que nos permite ser rápidos, flexibles y eficaces para diseñar y agregarle valor permanentemente a cualquier proyecato
+SCRUM es un MARCO DE TRABAJO, de adaptación iterativa e incremental que nos permite ser rápidos, flexibles y eficaces para diseñar y agregarle valor permanentemente a cualquier proyecato
 
 
 # Ceremonias - SCRUM
