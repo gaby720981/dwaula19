@@ -19,7 +19,7 @@ SCRUM es un MARCO DE TRABAJO, de adaptación iterativa e incremental que nos per
 
 # Ceremonias - SCRUM
 Las ceremonias son 4:
-- Sprint Planning Meeting (reunión de planificación del sprint)
+- Sprint Planning Meeting (reunión de planificación del sprint). Es la ceremonia de inicio del Sprint, en donde se identifica el objetivo del Sprint
 
  
 - Daily Scrum Meeting  (reunión periódica):
