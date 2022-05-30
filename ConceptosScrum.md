@@ -1,14 +1,24 @@
 # dwaula19
 Nombres de cada integrante: 
-(acá podriamos poner nuestros nombres)
+Aguilera Gabriela
+Alejo Alexandri
+Andres Bonilla
+Celeste Baldoneiro
+Daniela Barrios
+Danii Barrera
+Edith Moyano
+Elsa Alfaro
+Gaston Cane
+Yani Bazan
+
 
 # SCRUM
-SCRUM es un MARCO DE TRABAJO, de adaptación iterativa e incremental que nos permite ser rápidos, flexibles y eficaces para diseñar y agregarle valor permanentemente a cualquier proyecato
+SCRUM es un MARCO DE TRABAJO, de adaptación iterativa e incremental que nos permite ser rápidos, flexibles y eficaces para diseñar y agregarle valor permanentemente a cualquier proyecto.
 
 
 # Ceremonias - SCRUM
 Las ceremonias son 4:
-- Sprint Planning Meeting (reunión de planificación del sprint )
+- Sprint Planning Meeting (reunión de planificación del sprint)
 
  
 - Daily Scrum Meeting  (reunión periódica):
