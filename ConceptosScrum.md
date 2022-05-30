@@ -1,15 +1,16 @@
 # dwaula19
 Nombres de cada integrante: 
-Aguilera Gabriela
-Alejo Alexandri
-Andres Bonilla
-Celeste Baldoneiro
-Daniela Barrios
-Danii Barrera
-Edith Moyano
-Elsa Alfaro
-Gaston Cane
-Yani Bazan
+Aguilera Gabriela,
+Alexandri Alejo,
+Alfaro Elsa,
+Baldoneiro Celeste,
+Barrera Daniela,
+Barrios Daniela,
+Bazan Yanina,
+Bonilla Andres,
+Cane Gaston,
+Moyano Edith.
+
 
 
 # SCRUM
