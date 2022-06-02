@@ -19,6 +19,7 @@ SCRUM es un MARCO DE TRABAJO, de adaptación iterativa e incremental que nos per
 
 # Ceremonias - SCRUM
 Las ceremonias son 4:
+
 - Sprint Planning Meeting (reunión de planificación del sprint). Es la ceremonia de inicio del Sprint, en donde se identifica el objetivo del Sprint
 
  
@@ -34,7 +35,7 @@ Las ceremonias son 4:
  
 
 # Artefactos - SCRUM
- - Product Backlog (Pila del Producto) 
+ - Product Backlog (Pila del Producto)
  - Sprint Backlog (Pila del Sprint)
  - Increment (Incremento)
 
@@ -42,5 +43,5 @@ Las ceremonias son 4:
 # Roles - SCRUM
 - PRODUCT OWNER (PO)
 - SCRUM MASTER
-- DEVELOPMENT TEAM 
+- DEVELOPMENT TEAM
 
