@@ -14,7 +14,7 @@ Moyano Edith.
 
 
 # SCRUM
-SCRUM es un MARCO DE TRABAJO, de adaptación iterativa e incremental que nos permite ser rápidos, flexibles y eficaces para diseñar y agregarle valor permanentemente a cualquier proyecto.
+SCRUM es un MARCO DE TRABAJO, de adaptación interativa e incremental que nos permite ser rápidos, flexibles y eficaces para diseñar y agregarle valor permanentemente a cualquier proyecto.
 
 
 # Ceremonias - SCRUM
