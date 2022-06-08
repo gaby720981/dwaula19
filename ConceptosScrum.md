@@ -24,7 +24,6 @@ Las ceremonias son 4:
 
  
 - Daily Scrum Meeting  (reunión periódica):
-
   Se produce diariamente, y tiene un máximo de 20 min. de duración. 
   Tiene por objeto tratar qué es lo que se hizo, qué se va a hacer y qué problemas se han encontrado.
   
