@@ -1,7 +1,8 @@
-CREATE DATA BASE Peluqueria_canina;
+CREATE DATABASE Peluqueria_canina;
+USE Peluqueria_canina;
 
 CREATE TABLE Dueno( 
-  DNI INTEGER, 
+  DNI INT, 
   Nombre VARCHAR(25),
   Apellido VARCHAR(25),
   Telefono VARCHAR(25),
@@ -10,22 +11,22 @@ CREATE TABLE Dueno(
 );
 
 CREATE TABLE Perro( 
-  ID_Perro INTEGER, 
+  ID_Perro INT, 
   Nombre VARCHAR(25),
   Fecha_nac DATE,
   Sexo VARCHAR(25),
-  DNI_dueno VARCHAR(50),
+  DNI_dueno INT,
   CONSTRAINT pk_id_perro PRIMARY KEY(ID_Perro) ,
   CONSTRAINT fk_dni_dueno FOREIGN KEY(DNI_dueno)
 REFERENCES Dueno (DNI)
 );
 
 CREATE TABLE Historial( 
-  ID_Historial INTEGER, 
+  ID_Historial INT, 
   Fecha DATE,
   Perro VARCHAR(25),
   Descripcion VARCHAR(25),
-  Monto INTEGER,
+  Monto FLOAT,
   CONSTRAINT pk_id_historial PRIMARY KEY(ID_Historial),
   CONSTRAINT fk_Perro FOREIGN KEY(Perro)
 REFERENCES Perro (ID_Perro)
