@@ -50,7 +50,8 @@ Recorrer la lista “Perro” con un bucle y mostrar sus elementos por pantalla 
 
 Que representa montos de atención en pesos por diferentes servicios/consultas de la mascota “Puppy”. 
 Calcular el monto total gastado a lo largo del tiempo por atención de “Puppy”. 
-Si el gasto efectuado es menor a 30000, mostrar en pantalla dicho resultado, caso contrario mostrar el mensaje “Gastos por encima de lo presupuestado”.
+Si el gasto efectuado es menor a 30000, mostrar en pantalla dicho resultado, caso contrario mostrar el mensaje 
+“Gastos por encima de lo presupuestado”.
 
 6)       Crear una tupla en Python con el nombre de “Historial2” la cual contenga los siguientes valores:
 
