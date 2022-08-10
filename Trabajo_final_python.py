@@ -5,11 +5,11 @@
 
  #que representan los datos del dueño de un perro (DNI, nombre, apellido, teléfono y dirección)
  
-Duenio2 = [23546987, "Maria", "Perez", 4789689,  "Pueyrredon  811"]
+Dueno2 = [23546987, "Maria", "Perez", 4789689,  "Pueyrredon  811"]
 
 for i in range(len(Duenio2)):
     if i !=0:
      if i!=2:
-        print(Duenio2[i])
+        print(Dueno2[i])
         
   
