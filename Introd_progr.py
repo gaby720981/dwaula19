@@ -7,3 +7,13 @@
 # # Si el gasto efectuado es menor a 30000, mostrar en pantalla dicho resultado, caso contrario mostrar el mensaje 
 # # “Gastos por encima de lo presupuestado”.
 
+Historial = (2350, 5960, 23000, 1000, 8900)
+
+Historial_sum= sum(Historial)
+
+if (Historial_sum<30.000):
+   print(Historial_sum)
+else:
+    print("Gastos por encima de lo presupuestado")
+
+
