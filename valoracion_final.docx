@@ -97,6 +97,13 @@ Bases de datos:
 Subir un script SQL que constará, de la creación de la base de datos con sus tablas, 
 desde la cual crearán una consulta por estudiante y subir a su propia rama en el github.
 
+PASOS POR CADA ESTUDIANTE: 
+
+A. Crear Base de Datos y Tablas según Modelo Relacional.
+B. Realizar puntos 1 y 2
+C. Elegir algunos de los puntos 3 al 12 y agregarlo al script  (diferentes entre cada uno de los integrantes)
+D. Subir Script .sql con todos los puntos mencionados a su rama personal del GitHub grupal
+
 Dado el modelo de BD (https://lh6.googleusercontent.com/9eXxNeGzJxwZIkoxnKbbKag6BM5Wa-Vn3W4b3tdDPijNIqXu-0Wf2W4uhg5UMEH8I-jA9o3BhfAV5bW6Y2kZkAdQok_goFdGw45ytcnXwViJRYS_kX1ldWYcNzql9LDZaBmpJw81BmWn)
 de una peluquería canina, responda las siguiente preguntas:
 
