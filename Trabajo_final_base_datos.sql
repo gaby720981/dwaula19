@@ -25,7 +25,7 @@ CREATE TABLE Historial(
   ID_Historial INT, 
   Fecha DATE,
   Perro VARCHAR(25),
-  Descripcion VARCHAR(25),
+  Descripcion VARCHAR(100),
   Monto FLOAT,
   CONSTRAINT pk_id_historial PRIMARY KEY(ID_Historial),
   CONSTRAINT fk_Perro FOREIGN KEY(Perro)
@@ -38,6 +38,7 @@ SELECT * FROM Perro;
 
 --Ejercico 2
 INSERT INTO Perro VALUES (1, 'Chispita', 10/02/2019, 'Macho', 654321);
+INSERT INTO Dueno VALUES (654321, 'Ariana', 'Verde', '3516225300', 'Calle 123');
 
 --Ejercicio 4 
 UPDATE Perro SET Fecha_nac = 12/02/2018 WHERE ID_Perro = 1;
