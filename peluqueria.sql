@@ -7,7 +7,7 @@ create table dueno(
 dni int,
 nombre varchar (20),
 apellido varchar (20),
-telefono int,
+telefono varchar(20),
 direccion varchar (30),
 constraint pk_cd primary key(dni)
 )
