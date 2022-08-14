@@ -43,7 +43,7 @@ constraint fk_ch1 foreign key (perro) references perro(ID_perro)
 
 INSERT INTO Dueno
 
-VALUES (35123456, Gonzalo, Perez, 0303456, Córdoba);
+VALUES (35123456, Gonzalo, Perez, 0303456, Calle_Falsa_123);
 
 INSERT INTO Perro
 VALUES (00001, Manchita, 05052020, Femenino, 35123456);
