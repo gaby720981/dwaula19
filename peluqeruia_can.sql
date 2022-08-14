@@ -48,4 +48,4 @@ VALUES ( "Terry", "2021-05-04", "Macho", 35625832 );
 -- 7) Obtener los ingresos percibidos en Julio del 2022
 select monto
 from historial
-where fecha>=01/07/2022 and fecha<=30/07/2022
+where fecha>=01/07/2022 and fecha<=30/07/2022;
