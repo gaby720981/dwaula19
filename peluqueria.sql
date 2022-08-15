@@ -47,7 +47,7 @@ insert into historial values (453, 13/07/2022, 25179, 'productos antialérgicos'
 
 select * from historial
 
-
+EJERCICIO BASE DE DATOS:
 7) Obtener los ingresos percibidos en Julio del 2022
 
 
